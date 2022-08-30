@@ -1,0 +1,1 @@
+스테이징 구역 제거(git add 한것) : git rm --cached node_modules -r
